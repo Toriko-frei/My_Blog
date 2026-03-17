@@ -9,14 +9,24 @@ theme = "PaperMod"
     ShowReadingTime = true # 显示阅读需要几分钟
     ShowWordCount = true # 显示字数
 
-[[menu.main]]
-    identifier = "archives"
-    name = "归档"
-    url = "/archives/"
-    weight = 10
-
-[[menu.main]]
-    identifier = "search"
-    name = "搜索"
-    url = "/search/"
-    weight = 20
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/"
+        weight = 10
+    [[menu.main]]
+        identifier = "archives"
+        name = "Archives"
+        url = "/archives/"
+        weight = 20
+    [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 30
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 40

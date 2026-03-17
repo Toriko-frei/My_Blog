@@ -1,4 +1,22 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://my-blog-384.pages.dev/'
+languageCode = 'zh-cn'
+title = 'NonToriko'  # 这里改成了你的专属名字
 theme = "PaperMod"
-locale = 'en-us'
-title = 'My New Hugo Project'
+
+[params]
+    description = "思考记录"
+    defaultTheme = "auto" # 自动跟随系统切换深浅色，也可以写死 "dark" 或 "light"
+    ShowReadingTime = true # 显示阅读需要几分钟
+    ShowWordCount = true # 显示字数
+
+[[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 20

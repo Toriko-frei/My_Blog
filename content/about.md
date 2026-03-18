@@ -1,7 +1,9 @@
 +++
-date = '2026-03-17T22:45:56+08:00'
-draft = true
 title = 'About'
+
+layout="search"
+
+description="NonToriko"
 +++
 
 

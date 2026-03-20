@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/读《历史的教训》-1.md",
+                "file": "content/posts/正午故事.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "读《历史的教训》-1"
+              "title": "正午故事"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "8b8a34d4566f328f",
   "lastOpenFiles": [
+    "content/posts/读《历史的教训》-1.md",
+    "content/posts/正午故事.md",
     "content/posts/读《自私的基因》-1.md",
     "content/posts/读《卧底经济学1》-1.md",
-    "content/posts/读《历史的教训》-1.md",
     "content/posts/读《合作的进化》-1.md",
     "content/posts/苏联1979入侵阿富汗.md",
     "content/posts/first-post.md",

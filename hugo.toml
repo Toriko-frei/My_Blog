@@ -2,6 +2,7 @@ baseURL = 'https://my-blog-384.pages.dev/'
 languageCode = 'zh-cn'
 title = 'NonToriko'  # 这里改成了你的专属名字
 theme = "PaperMod"
+hasCJKLanguage = true
 
 [params]
     description = "思考记录"

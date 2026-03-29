@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/读《历史的教训》.md",
+                "file": "content/posts/读《小岛经济学》.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "读《历史的教训》"
+              "title": "读《小岛经济学》"
             }
           }
         ]
@@ -185,10 +185,15 @@
   },
   "active": "8b8a34d4566f328f",
   "lastOpenFiles": [
+    "static/image/Pasted image 20260329210609.png",
+    "content/posts/读《富爸爸穷爸爸》.md",
+    "content/posts/读《小岛经济学》.md",
+    "content/posts/读《行为：暴力、竞争、利他，人类行为背后的生物学》.md",
+    "static/image/Pasted image 20260326224946.png",
+    "content/posts/读《历史的教训》.md",
     "content/posts/读《论人与人之间不平等的起因和基础》.md",
     "content/posts/读《卧底经济学1》.md",
     "content/posts/读《自私的基因》.md",
-    "content/posts/读《历史的教训》.md",
     "content/posts/读《十三邀》.md",
     "content/posts/如何从零制作一台四旋翼无人机.md",
     "content/posts/读《沉思录》.md",
@@ -202,7 +207,6 @@
     "static/image/Pasted image 20260325145342.png",
     "static/image/Pasted image 20260325145037.png",
     "static/image/Pasted image 20260325144734.png",
-    "static/image/Pasted image 20260325144357.png",
     "content/posts/苏联1979入侵阿富汗.md",
     "content/posts/first-post.md",
     "content/posts/正午故事.md",
